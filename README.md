@@ -1,1 +1,1 @@
-# Modified-Kaprekar-Numbers-algo
+# Modified-Kaprekar-Numbers-algo The function iterates through all numbers from p to q and checks if a number is a Kaprekar number by splitting its square into two parts and summing them. If the sum equals the original number, it prints it; otherwise, it prints INVALID RANGE if none are found.
